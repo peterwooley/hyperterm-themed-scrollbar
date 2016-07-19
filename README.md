@@ -18,12 +18,15 @@ Enhances the style of your [HyperTerm](http://hyperterm.org) scrollbar to match 
 
 ## Screenshots
 <img src="screenshots/hyperterminator.png" alt="Screenshot of the scrollbar with the HYPERTERMINATOR theme." width="320">
+
 A scrollbar as dystopian as the feeling you get using the [HYPERTERMINATOR theme]().
 
 <img src="screenshots/hyperterm-firewatch.png" alt="Screenshot of the scrollbar with the hyperterm-firewatch theme." width="320">
+
 Subtle and calm like the Wyoming wilderness (when it isn't on fire) with the [Firewatch HyperTerm theme](https://github.com/leeds-ebooks/hyperterm-firewatch).
 
 <img src="screenshots/hyperseti.png" alt="Screenshot of the scrollbar with the hyperseti theme." width="320">
+
 In the dark of night, a roundrect star shoots across your terminal with the [Seti for HyperTerm theme](https://www.npmjs.com/package/hyperseti).
 
 
