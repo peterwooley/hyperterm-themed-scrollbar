@@ -1,15 +1,15 @@
-# HyperTerm Theme Scrollbar
+# HyperTerm Themed Scrollbar
 Enhances the style of your [HyperTerm](http://hyperterm.org) scrollbar to match the style of your theme (using `config.foregroundColor`).
 
 ## Install
 1. In HyperTerm, tap `⌘,` to open `~/.hyperterm.js` in your `$EDITOR`
-2. Add `hyperterm-theme-scrollbar` to the `config.plugins` array. For example, here's what my `plugins` array looks like:
+2. Add `hyperterm-themed-scrollbar` to the `config.plugins` array. For example, here's what my `plugins` array looks like:
     ```
     plugins: [
       "hyperterm-1password",
       "hypercwd",
       "hyperseti",
-      "hyperterm-theme-scrollbar"
+      "hyperterm-themed-scrollbar"
     ],
     ```
 
