@@ -1,6 +1,6 @@
 {
   "name": "hyperterm-themed-scrollbar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Transforms your HyperTerm scrollbar to match your theme.",
   "main": "index.js",
   "keywords": [
