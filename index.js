@@ -7,7 +7,7 @@ module.exports.decorateConfig = config => {
       }
       ::-webkit-scrollbar-thumb {
         border-radius: 4px;
-        background-color:${config.foregroundColor};
+        background-color:${config.foregroundColor || 'rgba(255, 255, 255, 0.5)'};
       }
     `
   })
